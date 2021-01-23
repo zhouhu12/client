@@ -1,0 +1,27 @@
+﻿  display.cpp
+  draw.cpp
+  impl.cpp
+  main.cpp
+  srio.cpp
+  srioCapture.cpp
+  videoEncodeManager.cpp
+  videoEncoder.cpp
+d:\videotest\ffmpegtest_onlyencode\ffmpeg-4.0.1-win64-dev\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 videoEncoder.cpp)
+c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\srioCommon.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 srioCapture.cpp)
+c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\srioCommon.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 srio.cpp)
+d:\videotest\ffmpegtest_onlyencode\ffmpeg-4.0.1-win64-dev\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 videoEncodeManager.cpp)
+d:\videotest\ffmpegtest_onlyencode\ffmpeg-4.0.1-win64-dev\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 impl.cpp)
+d:\videotest\ffmpegtest_onlyencode\ffmpeg-4.0.1-win64-dev\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 display.cpp)
+c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\srioCommon.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 impl.cpp)
+c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\srioCommon.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 display.cpp)
+videoEncodeManager.cpp(6): warning C4005: “ERROR”: 宏重定义 (编译源文件 videoEncodeManager.cpp)
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h(114): note: 参见“ERROR”的前一个定义 (编译源文件 videoEncodeManager.cpp)
+impl.cpp(72): warning C4311: “类型转换”: 从“HWND”到“int”的指针截断 (编译源文件 impl.cpp)
+impl.cpp(117): warning C4311: “类型转换”: 从“CapBoardListner *”到“int”的指针截断 (编译源文件 impl.cpp)
+impl.cpp(117): warning C4311: “类型转换”: 从“PVOID”到“int”的指针截断 (编译源文件 impl.cpp)
+c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\display.cpp(215): warning C4715: “display::clone”: 不是所有的控件路径都返回值
+c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\display.cpp(226): warning C4715: “display::unClone”: 不是所有的控件路径都返回值
+c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\display.cpp(286): warning C4715: “display::extInterface”: 不是所有的控件路径都返回值
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): warning MSB8015: Forcing a rebuild of all source files due to the contents of "C:\Users\Administrator\Desktop\客户端\20210120添加版本号之前\SrioVideoCtl\x64\Release\SrioVideoCtl.tlog\CL.command.1.tlog" being invalid.
+    正在创建库 C:\Users\Administrator\Desktop\客户端\20210120添加版本号之前\SrioVideoCtl\x64\Release\SrioVideoCtl.lib 和对象 C:\Users\Administrator\Desktop\客户端\20210120添加版本号之前\SrioVideoCtl\x64\Release\SrioVideoCtl.exp
+  SrioVideoCtl.vcxproj -> C:\Users\Administrator\Desktop\客户端\20210120添加版本号之前\SrioVideoCtl\x64\Release\SrioVideoCtl.dll

@@ -1,0 +1,11 @@
+[2021-01-19 15:49:37.936] [srio] [info] [BoardCaptureImpl] createBoardCapture is called with localId=0, localPort=0, destId=0, channelId=4, videoType=0, listner=0, winId=66684
+[2021-01-19 15:49:37.951] [srio] [debug] [VideoEncodeManager] Encoder initialized.
+[2021-01-19 15:49:37.951] [srio] [debug] [BoardCaptureImpl] SRIO intialized.
+[2021-01-19 15:49:37.983] [srio] [info] [BoardCaptureImpl] Read ids from ./IdConfig/IdConfig.ini, HostId:6, ServerId:10
+[2021-01-19 15:49:37.983] [srio] [info] [BoardCaptureImpl] start is called.
+[2021-01-19 15:49:37.983] [srio] [info] [BoardCaptureImpl] extInterface is called.
+[2021-01-19 15:49:37.983] [srio] [info] [BoardCaptureImpl] extPara.type=100, extPara.para.recordSetting:
+[2021-01-19 15:49:37.983] [srio] [info] [BoardCaptureImpl] 	sourceType=2, path=, timeDuration=0, fileType=0, videoType=1
+[2021-01-19 15:49:37.983] [srio] [info] [BoardCaptureImpl] extPara.para.recordSetting.encodePara: 
+[2021-01-19 15:49:37.983] [srio] [info] [BoardCaptureImpl] 	MBitRate=5366900505, movieScale.wScale=22, movieScale.hScale=0, encodeType=1071914060, fRate=1
+[2021-01-19 15:49:37.983] [srio] [info] [display] extInterface Sending para with type 100 directly to server... channelId=4

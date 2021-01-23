@@ -1,0 +1,70 @@
+﻿  display.cpp
+d:\videotest\ffmpegtest_onlyencode\ffmpeg-4.0.1-win64-dev\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\srioCommon.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2458): warning C4996: 'std::copy_n::_Unchecked_iterators::_Deprecate': Call to 'std::copy_n' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2458): note: 参见“std::copy_n::_Unchecked_iterators::_Deprecate”的声明
+  c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\spdlog\fmt\bundled\format.h(3063): note: 参见对正在编译的函数 模板 实例化“_OutIt std::copy_n<const Char*,unsigned __int64,fmt::v7::detail::buffer_appender<char>>(_InIt,_Diff,_OutIt)”的引用
+          with
+          [
+              _OutIt=fmt::v7::detail::buffer_appender<char>,
+              Char=char,
+              _InIt=const char *,
+              _Diff=unsigned __int64
+          ]
+  c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\spdlog\fmt\bundled\format.h(3059): note: 编译类 模板 成员函数“void fmt::v7::detail::format_handler<iterator,Char,fmt::v7::basic_format_context<fmt::v7::detail::buffer_appender<char>,Char>>::on_text(const Char *,const Char *)”时
+          with
+          [
+              Char=char
+          ]
+  c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\spdlog\fmt\bundled\format.h(3014): note: 参见对正在编译的函数 模板 实例化“void fmt::v7::detail::format_handler<iterator,Char,fmt::v7::basic_format_context<fmt::v7::detail::buffer_appender<char>,Char>>::on_text(const Char *,const Char *)”的引用
+          with
+          [
+              Char=char
+          ]
+  c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\spdlog\fmt\bundled\format.h(3775): note: 参见对正在编译的类 模板 实例化“fmt::v7::detail::format_handler<iterator,Char,fmt::v7::basic_format_context<fmt::v7::detail::buffer_appender<char>,Char>>”的引用
+          with
+          [
+              Char=char
+          ]
+  c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\spdlog\fmt\bundled\format-inl.h(2752): note: 参见对正在编译的函数 模板 实例化“void fmt::v7::detail::vformat_to<char>(fmt::v7::detail::buffer<char> &,fmt::v7::basic_string_view<char>,fmt::v7::basic_format_args<fmt::v7::format_context>,fmt::v7::detail::locale_ref)”的引用
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2372): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2372): note: 参见“std::copy::_Unchecked_iterators::_Deprecate”的声明
+  c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\spdlog\fmt\bundled\format.h(2022): note: 参见对正在编译的函数 模板 实例化“_OutIt std::copy<const char*,Iterator>(_InIt,_InIt,_OutIt)”的引用
+          with
+          [
+              _OutIt=char *,
+              Iterator=char *,
+              _InIt=const char *
+          ]
+  c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\spdlog\fmt\bundled\format.h(2057): note: 参见对正在编译的函数 模板 实例化“OutputIt *fmt::v7::detail::write<char,char*>(OutputIt,fmt::v7::basic_string_view<char>)”的引用
+          with
+          [
+              OutputIt=char *
+          ]
+  c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\spdlog\fmt\bundled\format.h(3743): note: 参见对正在编译的函数 模板 实例化“OutputIt *fmt::v7::detail::write<char,char*>(OutputIt,bool)”的引用
+          with
+          [
+              OutputIt=char *
+          ]
+  c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\spdlog\fmt\bundled\format-inl.h(2646): note: 参见对正在编译的函数 模板 实例化“std::string fmt::v7::to_string<T,0>(T)”的引用
+          with
+          [
+              T=bool
+          ]
+  C:\Users\Administrator\Desktop\客户端\20210120添加版本号之前\SrioVideoCtl\spdlog/fmt/bundled/core.h(1335): note: 参见对正在编译的函数 模板 实例化“std::string fmt::v7::detail::stringifier::operator ()<bool>(T) const”的引用
+          with
+          [
+              T=bool
+          ]
+  c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\spdlog\fmt\bundled\format-inl.h(2749): note: 参见对正在编译的函数 模板 实例化“std::string fmt::v7::visit_format_arg<fmt::v7::detail::stringifier,Context>(Visitor &&,const fmt::v7::basic_format_arg<Context> &)”的引用
+          with
+          [
+              Context=fmt::v7::format_context,
+              Visitor=fmt::v7::detail::stringifier
+          ]
+c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\display.cpp(226): warning C4715: “display::unClone”: 不是所有的控件路径都返回值
+c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\display.cpp(286): warning C4715: “display::extInterface”: 不是所有的控件路径都返回值
+c:\users\administrator\desktop\客户端\20210120添加版本号之前\sriovideoctl\display.cpp(215): warning C4715: “display::clone”: 不是所有的控件路径都返回值
+    正在创建库 C:\Users\Administrator\Desktop\客户端\20210120添加版本号之前\SrioVideoCtl\x64\Debug\SrioVideoCtl.lib 和对象 C:\Users\Administrator\Desktop\客户端\20210120添加版本号之前\SrioVideoCtl\x64\Debug\SrioVideoCtl.exp
+  SrioVideoCtl.vcxproj -> C:\Users\Administrator\Desktop\客户端\20210120添加版本号之前\SrioVideoCtl\x64\Debug\SrioVideoCtl.dll
+  SrioVideoCtl.vcxproj -> C:\Users\Administrator\Desktop\客户端\20210120添加版本号之前\SrioVideoCtl\x64\Debug\SrioVideoCtl.pdb (Full PDB)
